@@ -1,0 +1,1 @@
+"""QueryLens DuckDB Core Package."""
